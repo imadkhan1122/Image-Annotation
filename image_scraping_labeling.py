@@ -4,8 +4,8 @@ import tensorflow as tf
 import tensorflow_hub as hub
 from PIL import Image
 import time
- from selenium import webdriver
- from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import urllib.request
 import os
 import glob
